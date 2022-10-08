@@ -1,0 +1,82 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.box{
+    border: 2px solid brown;
+    width: 40%;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    height: fit-content;
+}
+.pic1{
+    float: right;
+    padding-right: 10px;
+    padding-left: 40px;
+    width:50%;
+    height: 80%;  
+}
+.heading{
+    color: black;
+    font-size: medium;
+}
+.box1{
+   padding-top: 30px;
+   padding-left:10px;
+}
+.about{
+    font-size:30px;
+    padding-left:10px;
+    font-family: Italic;
+}
+.virat{
+    font-family: italic;
+}
+.career_summary{
+        font-size:30px;
+        padding-left:10px;
+}
+.career1{
+        font-family: italic;
+        padding-left: 10px;
+        font-size: 30px;
+}
+.virat_kohli{
+    font-size: 30px;
+}
+.text{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+@media screen and (max-width:600px)
+{
+  img{
+    width:200px;
+    height:100px;
+  }  
+}
+.link1{
+    border: 2px solid brown;
+    width: 40%;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    height: fit-content;
+}
+body{
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.mainhead{
+    width: 50%;
+    padding-left: 10px;
+}
